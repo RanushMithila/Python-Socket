@@ -10,3 +10,7 @@ HOST = socket.gethostbyname(socket.gethostname())
 ```
 HOST = '127.0.0.1'
 ```
+ - I assign port as 9090 if you want to change it you can change this line
+```
+PORT = 9090
+```
